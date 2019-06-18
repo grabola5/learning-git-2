@@ -5,9 +5,22 @@ body {
 	background-color: #ffeaa7;
 	margin: 0 auto;
 	font-family: 'Open Sans', sans-serif;
-
+}
 .container {
     width: 100%; 
     max-width: 1200px;
     margin: 0 auto;
+    margin-left: 20px ;
+}
+.title {
+	margin-left: 50px;
+}
+.title h1 {
+	font-size: 30px;
+	font-weight: 600;
+	color: #2d3436;
+}
+.title h2 {
+	font-size: 26px;
+	color: #636e72;
 }
